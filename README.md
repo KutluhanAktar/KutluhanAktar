@@ -2,6 +2,8 @@
 
 ## Independent Researcher | Product, AI, and Software Developer | Maker | Proof-of-Concept Solutions
 
+<img src="https://github.com/KutluhanAktar/KutluhanAktar/blob/main/banner.webp" />
+
 I am an independent researcher focusing on demonstrating the ideas and solutions I conceptualized regarding various domains and disciplines, from industrial operations to agriculture. In relation to the research subject and the experiments I am conducting, I develop products, neural network models, and distinctive application software. Since I primarily apply the Artificial Intelligence of Things (AIoT) methodology so as to develop my solutions, I always collate unique data while generating my datasets and elaborate my data collection techniques in addition to providing the results of my experiments.
 
 Of course, I would not be able to pursue independent research and fulfill my AI-driven solution concepts for real-world problems without the unwavering and continuing support of pioneering tech companies, such as Edge Impulse, DFRobot, Particle, Seeed Studio, PCBWay, and Elecrow. Thanks to their assistance and sponsorships, I was able to utilize state-of-the-art infrastructures, services, and sensors to devise innovative proof-of-concept projects and accomplish my authentic and intricate builds as a full-time occupation.
