@@ -1,4 +1,4 @@
-# Hi 👋
+# Hi, I'm Kutluhan Aktar 👋
 
 ## Independent Researcher | Product, AI, and Software Developer | Maker | Proof-of-Concept Solutions
 
