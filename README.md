@@ -13,7 +13,7 @@ Of course, I would not be able to pursue independent research and fulfill my AI-
 [<img alt="LinkedIn" width="auto" height="60px" src="http://www.kutluhanaktar.com/assets/images/brand/linkedin.png" />](https://www.linkedin.com/in/kutluhan-aktar-a3739618a/) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="YouTube" width="auto" height="60px" src="http://www.kutluhanaktar.com/assets/images/brand/youtube.png" />](https://www.youtube.com/@Kutluhan_Aktar) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="Instagram" width="auto" height="60px" src="http://www.kutluhanaktar.com/assets/images/brand/instagram.png" />](https://www.instagram.com/KutluhanAktar/) &nbsp;&nbsp;&nbsp;&nbsp;
-[<img alt="X / Twitter" width="auto" height="60px" src="http://www.kutluhanaktar.com/assets/images/brand/twitter_x.png" />](https://x.com/KutluhanAktar) &nbsp;&nbsp;&nbsp;&nbsp;
+[<img alt="X / Twitter" width="auto" height="60px" src="http://www.kutluhanaktar.com/assets/images/brand/twitter_logo_light.jpg" />](https://x.com/KutluhanAktar) &nbsp;&nbsp;&nbsp;&nbsp;
 
 # 🤖 My website and other project platforms (maker communities)
 
