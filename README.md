@@ -24,6 +24,7 @@ Of course, I would not be able to pursue independent research and fulfill my AI-
 
 # 🚀 Latest projects
 
+[<img alt="project_7" width="250px" height="auto" src="https://www.kutluhanaktar.com/projects/AI_driven_Plastic_Surface_Defect_Detection_via_UV_exposure/Pictures/small/home.gif" />](https://www.kutluhanaktar.com/projects/AI_driven_Plastic_Surface_Defect_Detection_via_UV_exposure/) &nbsp;&nbsp;
 [<img alt="project_7" width="250px" height="auto" src="http://www.kutluhanaktar.com/projects/AI_driven_LoRa_LLM_enabled_Drive_through_Kiosk_Food_Delivery_System/Pictures/small/home.gif" />](https://www.kutluhanaktar.com/projects/AI_driven_LoRa_LLM_enabled_Drive_through_Kiosk_Food_Delivery_System/) &nbsp;&nbsp;
 [<img alt="project_6" width="250px" height="auto" src="http://www.kutluhanaktar.com/projects/Digital_twin_enabled_Smart_Shipping_Workstation_with_Omniverse/Pictures/small/home.gif" />](https://www.kutluhanaktar.com/projects/Digital_twin_enabled_Smart_Shipping_Workstation_with_Omniverse/) &nbsp;&nbsp;
 [<img alt="project_5" width="250px" height="auto" src="http://www.kutluhanaktar.com/projects/AI_driven_Sound_and_Thermal_Image_based_HVAC_Fault_Diagnosis/Pictures/small/home.gif" />](https://www.kutluhanaktar.com/projects/AI_driven_Sound_and_Thermal_Image_based_HVAC_Fault_Diagnosis/) &nbsp;&nbsp;
