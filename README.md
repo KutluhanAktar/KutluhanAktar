@@ -24,6 +24,7 @@ Of course, I would not be able to pursue independent research and fulfill my AI-
 
 # 🚀 Latest projects
 
+[<img alt="project_10" width="250px" height="auto" src="https://www.kutluhanaktar.com/projects/A_study_on_VLM_driven_ceiling_fan_airflow_analysis_w_Unity/Pictures/small/home.gif" />](https://www.kutluhanaktar.com/projects/A_study_on_VLM_driven_ceiling_fan_airflow_analysis_w_Unity/) &nbsp;&nbsp;
 [<img alt="project_10" width="250px" height="auto" src="https://www.kutluhanaktar.com/projects/Mini_figurine_Cataloger_and_Listing_Tracker_w_Hermes_Agent/Pictures/small/home.gif" />](https://www.kutluhanaktar.com/projects/Mini_figurine_Cataloger_and_Listing_Tracker_w_Hermes_Agent/) &nbsp;&nbsp;
 [<img alt="project_9" width="250px" height="auto" src="https://www.kutluhanaktar.com/projects/AI_driven_Ancillary_Lab_Assistant_w_UNO_Q_and_Gemini/Pictures/small/home.gif" />](https://www.kutluhanaktar.com/projects/AI_driven_Ancillary_Lab_Assistant_w_UNO_Q_and_Gemini/) &nbsp;&nbsp;
 [<img alt="project_8" width="250px" height="auto" src="https://www.kutluhanaktar.com/projects/AI_driven_Plastic_Surface_Defect_Detection_via_UV_exposure/Pictures/small/home.gif" />](https://www.kutluhanaktar.com/projects/AI_driven_Plastic_Surface_Defect_Detection_via_UV_exposure/) &nbsp;&nbsp;
