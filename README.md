@@ -24,6 +24,7 @@ Of course, I would not be able to pursue independent research and fulfill my AI-
 
 # 🚀 Latest projects
 
+[<img alt="project_10" width="250px" height="auto" src="https://www.kutluhanaktar.com/projects/A_pest_nest_identification_AI_agent_from_a_failed_bee_vacuum/Pictures/small/home.gif" />](https://www.kutluhanaktar.com/projects/A_pest_nest_identification_AI_agent_from_a_failed_bee_vacuum/) &nbsp;&nbsp;
 [<img alt="project_10" width="250px" height="auto" src="https://www.kutluhanaktar.com/projects/A_study_on_VLM_driven_ceiling_fan_airflow_analysis_w_Unity/Pictures/small/home.gif" />](https://www.kutluhanaktar.com/projects/A_study_on_VLM_driven_ceiling_fan_airflow_analysis_w_Unity/) &nbsp;&nbsp;
 [<img alt="project_10" width="250px" height="auto" src="https://www.kutluhanaktar.com/projects/Mini_figurine_Cataloger_and_Listing_Tracker_w_Hermes_Agent/Pictures/small/home.gif" />](https://www.kutluhanaktar.com/projects/Mini_figurine_Cataloger_and_Listing_Tracker_w_Hermes_Agent/) &nbsp;&nbsp;
 [<img alt="project_9" width="250px" height="auto" src="https://www.kutluhanaktar.com/projects/AI_driven_Ancillary_Lab_Assistant_w_UNO_Q_and_Gemini/Pictures/small/home.gif" />](https://www.kutluhanaktar.com/projects/AI_driven_Ancillary_Lab_Assistant_w_UNO_Q_and_Gemini/) &nbsp;&nbsp;
